@@ -1,0 +1,7 @@
+#Wed Feb 19 21:01:19 CST 2025
+base.0=E\:\\write_coding\\random_gallery\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=E\:\\write_coding\\random_gallery\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

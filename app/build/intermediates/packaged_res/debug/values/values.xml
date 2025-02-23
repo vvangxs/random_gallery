@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">随机相册</string>
+    <string name="delete_image">删除图片</string>
+    <string name="image_info_date">创建时间：%1$s</string>
+    <string name="image_info_file_size">文件大小：%1$s</string>
+    <string name="image_info_name">文件名：%1$s</string>
+    <string name="image_info_size">尺寸：%1$d x %2$d</string>
+    <string name="image_info_title">图片详细信息</string>
+    <string name="info_image">图片信息</string>
+    <string name="random_image">Random Image</string>
+    <style name="Theme.RandomGallery" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        
+        <item name="colorSecondary">#757575</item>
+        <item name="colorSecondaryVariant">#616161</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        
+        <item name="android:statusBarColor">#000000</item>
+        
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        
+        <item name="materialButtonStyle">@style/Widget.App.Button</item>
+    </style>
+    <style name="Widget.App.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">#424242</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="rippleColor">#616161</item>
+    </style>
+</resources>

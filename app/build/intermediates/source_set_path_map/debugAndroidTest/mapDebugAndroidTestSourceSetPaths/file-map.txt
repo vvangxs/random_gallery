@@ -1,0 +1,4 @@
+com.example.randomgallery.test.app-androidTest-0 E:\write_coding\random_gallery\app\build\generated\res\resValues\androidTest\debug
+com.example.randomgallery.test.app-mergeDebugAndroidTestResources-1 E:\write_coding\random_gallery\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.randomgallery.test.app-mergeDebugAndroidTestResources-2 E:\write_coding\random_gallery\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.randomgallery.test.app-debugAndroidTest-3 E:\write_coding\random_gallery\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

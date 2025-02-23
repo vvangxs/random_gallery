@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\王学升\\.gradle\\daemon\\8.9\\com.example.randomgallery.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\王学升\\.gradle\\daemon\\8.9\\com.example.randomgallery.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.randomgallery.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.randomgallery.app-main-37:/layout/activity_main.xml"
+    }
+]

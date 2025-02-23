@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">随机相册</string>
+    <string name="random_image">Random Image</string>
+    <string name="delete_image">删除图片</string>
+    <string name="info_image">图片信息</string>
+    <string name="image_info_title">图片详细信息</string>
+    <string name="image_info_name">文件名：%1$s</string>
+    <string name="image_info_size">尺寸：%1$d x %2$d</string>
+    <string name="image_info_file_size">文件大小：%1$s</string>
+    <string name="image_info_date">创建时间：%1$s</string>
+</resources>
